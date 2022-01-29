@@ -1,0 +1,4 @@
+{
+  "exec": "node index.js",
+  "watch": ["index.js"]
+}
